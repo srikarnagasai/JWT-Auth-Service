@@ -17,7 +17,7 @@ app.post('/get-token', (req, res) => {
 
     const identity = "ritesh.mohire@kore.com";
     const clientId = "cs-53d0f27a-ec48-5936-b2c8-5844e8f26108";
-    const clientSecret = "SbJVkk0if3Az+Sc6WlrhOobA4iC+KyJwfv28wjYsAR8=";
+    const clientSecret = "SbJVkk0if3Az+Sc6WlrhOobA4iC+KyJwfv28wjYsAR8==";
     const isAnonymous = false;
     const aud = "https://idproxy.kore.com/authorize";
 
